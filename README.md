@@ -9,4 +9,4 @@ Python >= 3.9
 
 ## How to run
 
-Python earley.py grammar-file lexicon-file
+Python earley.py grammar.txt lexicon.txt
